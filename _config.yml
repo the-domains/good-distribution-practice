@@ -1,0 +1,14 @@
+layout_spectrum: 0.9295761750545353
+typography_spectrum: 0.09254378220066428
+color:
+  brandStrength: 0.5589668245520443
+  lightness: 0.07355809723958373
+  saturation: 0.21274554613046348
+  rhythmicContrast: 0.6870461425278336
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Good Distribution Practice
