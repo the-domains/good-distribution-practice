@@ -1,4 +1,3 @@
-layout_spectrum: 0.9295761750545353
 typography_spectrum: 0.09254378220066428
 color:
   brandStrength: 0.5589668245520443
@@ -11,5 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.9295761750545353
 name: Good Distribution Practice
 title: Complete Compliance
+description: Welcome to a new paradigm!
